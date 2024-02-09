@@ -6,6 +6,20 @@ I am thrilled to announce the successful completion of our ambitious research pr
 ## Project Objective
 The primary objective of our project was to develop a furniture recommender system that enhances the interior design experience for customers. Traditional recommendation algorithms often rely on Collaborative Filtering and Content-based Filtering techniques. However, our approach incorporates the latest advancements in deep learning by leveraging an image-based model (CNN). This novel methodology enables our system to understand compatibility from product imagery, mirroring the intuitive approach of professional interior designers and mitigating the cold start problem.
 
+# Snapshot of Demo (Furniture Recommender)
+
+![demo](https://github.com/Amrita-Soney/Deep-Learning-Furniture-Recommender/blob/9402f8cbacd7ca663b03545a4a0fd81c15d4cb2c/demo.png)
+
+# Modelling overview
+![Modelling overview](https://github.com/Amrita-Soney/Deep-Learning-Furniture-Recommender/blob/9402f8cbacd7ca663b03545a4a0fd81c15d4cb2c/modelling%20overview%20main.png)
+
+# Model Overview
+![model overview](https://github.com/Amrita-Soney/Deep-Learning-Furniture-Recommender/blob/9402f8cbacd7ca663b03545a4a0fd81c15d4cb2c/model%20overview.png)
+
+# Object Detection
+![Object Detection](https://github.com/Amrita-Soney/Deep-Learning-Furniture-Recommender/blob/9402f8cbacd7ca663b03545a4a0fd81c15d4cb2c/object%20detection.jpg)
+
+
 ## Challenges and Exploration
 Our exploration in the realm of Artificial Intelligence posed formidable challenges that demanded rigorous inquiry and innovative solutions. Through collaborative efforts, our team not only gained a profound understanding of the subject matter but also fostered a deeper appreciation for teamwork and shared passion.
 
@@ -15,6 +29,4 @@ I extend my sincere appreciation to my teammates Laksshay Sehrawat and Vanshika 
 ## GitHub Repository
 For further details about our project, including code implementation and documentation, please visit our GitHub repository: [Furniture Recommender System GitHub Repository](https://lnkd.in/gHX_JFH3)
 
-## Tags
-#research #ai #ml #teamwork #gratitude #project #engineering
 
